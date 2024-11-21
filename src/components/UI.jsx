@@ -13,6 +13,7 @@ export default class UI extends Component {
           <p>This is a just a simple theme changer.</p>
           <p>Using a Context API</p>
           <p>First day using class components :)</p>
+          <p>Blah blah blah</p>
         </section>
       </div>
     );
